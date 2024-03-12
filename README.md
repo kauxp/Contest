@@ -11,10 +11,18 @@ Localhost: http://localhost:8080/carts
 ### GET:
 
 **Get All Carts:**
+
 `http://localhost:8080/carts`
 
+![image](https://github.com/kauxp/Contest/assets/145500535/b077378b-6937-486a-a61a-1fc7402d1729)
+
+
 **Get a Single Cart Based on id:**
+
 `http://localhost:8080/carts/1`
+
+![image](https://github.com/kauxp/Contest/assets/145500535/de26e8b9-0ae8-4d85-823b-ef7b60ffff11)
+
 
 **Get Carts in a Date Range:**
 `http://localhost:8080/carts?startdate=2020-10-03&enddate=2020-12-12`
