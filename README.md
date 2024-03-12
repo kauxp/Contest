@@ -28,7 +28,11 @@ Localhost: http://localhost:8080/carts
 `http://localhost:8080/carts?startdate=2020-10-03&enddate=2020-12-12`
 
 **Get Carts By User id:**
+
 `http://localhost:8080/carts/user/1`
+
+![image](https://github.com/kauxp/Contest/assets/145500535/9108ada5-19ca-4e90-a12e-869df011d81d)
+
 
 **Get User Carts in a Date Range:**
 `http://localhost:8080/carts/user/1?startdate=2020-10-03&enddate=2020-12-12`
